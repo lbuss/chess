@@ -1,0 +1,583 @@
+--- &70249114308140 !ruby/object:Board
+board:
+- - !ruby/object:Tile
+    revealed: 0
+    board: *70249114308140
+    position:
+    - 0
+    - 0
+    selected: false
+  - !ruby/object:Tile
+    revealed: 0
+    board: *70249114308140
+    position:
+    - 1
+    - 0
+    selected: false
+  - !ruby/object:Tile
+    revealed: 1
+    board: *70249114308140
+    position:
+    - 2
+    - 0
+    selected: false
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 3
+    - 0
+    selected: false
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 4
+    - 0
+    selected: false
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 5
+    - 0
+    selected: false
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 6
+    - 0
+    selected: :selected
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 7
+    - 0
+    selected: :selected
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 8
+    - 0
+    selected: :selected
+- - !ruby/object:Tile
+    revealed: 0
+    board: *70249114308140
+    position:
+    - 0
+    - 1
+    selected: false
+  - !ruby/object:Tile
+    revealed: 0
+    board: *70249114308140
+    position:
+    - 1
+    - 1
+    selected: :selected
+  - !ruby/object:Tile
+    revealed: 1
+    board: *70249114308140
+    position:
+    - 2
+    - 1
+    selected: false
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 3
+    - 1
+    selected: false
+    bombed: true
+    flagged: true
+  - !ruby/object:Tile
+    revealed: 2
+    board: *70249114308140
+    position:
+    - 4
+    - 1
+    selected: false
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 5
+    - 1
+    selected: false
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 6
+    - 1
+    selected: true
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 7
+    - 1
+    selected: :selected
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 8
+    - 1
+    selected: :selected
+- - !ruby/object:Tile
+    revealed: 0
+    board: *70249114308140
+    position:
+    - 0
+    - 2
+    selected: false
+  - !ruby/object:Tile
+    revealed: 0
+    board: *70249114308140
+    position:
+    - 1
+    - 2
+    selected: false
+  - !ruby/object:Tile
+    revealed: 1
+    board: *70249114308140
+    position:
+    - 2
+    - 2
+    selected: false
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 3
+    - 2
+    selected: false
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 4
+    - 2
+    selected: false
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 5
+    - 2
+    selected: false
+    bombed: true
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 6
+    - 2
+    selected: :selected
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 7
+    - 2
+    selected: :selected
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 8
+    - 2
+    selected: :selected
+- - !ruby/object:Tile
+    revealed: 1
+    board: *70249114308140
+    position:
+    - 0
+    - 3
+    selected: false
+  - !ruby/object:Tile
+    revealed: 1
+    board: *70249114308140
+    position:
+    - 1
+    - 3
+    selected: false
+    flagged: true
+  - !ruby/object:Tile
+    revealed: 1
+    board: *70249114308140
+    position:
+    - 2
+    - 3
+    selected: false
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 3
+    - 3
+    selected: false
+    flagged: true
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 4
+    - 3
+    selected: false
+  - !ruby/object:Tile
+    revealed: 2
+    board: *70249114308140
+    position:
+    - 5
+    - 3
+    selected: false
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 6
+    - 3
+    selected: :selected
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 7
+    - 3
+    selected: :selected
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 8
+    - 3
+    selected: :selected
+- - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 0
+    - 4
+    selected: false
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 1
+    - 4
+    selected: false
+    bombed: true
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 2
+    - 4
+    selected: false
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 3
+    - 4
+    selected: :selected
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 4
+    - 4
+    selected: false
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 5
+    - 4
+    selected: false
+    bombed: true
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 6
+    - 4
+    selected: :selected
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 7
+    - 4
+    selected: :selected
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 8
+    - 4
+    selected: :selected
+- - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 0
+    - 5
+    selected: false
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 1
+    - 5
+    selected: false
+    flagged: true
+  - !ruby/object:Tile
+    revealed: 1
+    board: *70249114308140
+    position:
+    - 2
+    - 5
+    selected: false
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 3
+    - 5
+    selected: false
+  - !ruby/object:Tile
+    revealed: 1
+    board: *70249114308140
+    position:
+    - 4
+    - 5
+    selected: false
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 5
+    - 5
+    selected: false
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 6
+    - 5
+    selected: false
+  - !ruby/object:Tile
+    revealed: 2
+    board: *70249114308140
+    position:
+    - 7
+    - 5
+    selected: false
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 8
+    - 5
+    selected: :selected
+- - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 0
+    - 6
+    selected: :selected
+    bombed: true
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 1
+    - 6
+    selected: false
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 2
+    - 6
+    selected: :selected
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 3
+    - 6
+    selected: :selected
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 4
+    - 6
+    selected: :selected
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 5
+    - 6
+    selected: :selected
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 6
+    - 6
+    selected: :selected
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 7
+    - 6
+    selected: false
+    bombed: true
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 8
+    - 6
+    selected: :selected
+    bombed: true
+- - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 0
+    - 7
+    selected: :selected
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 1
+    - 7
+    selected: false
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 2
+    - 7
+    selected: false
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 3
+    - 7
+    selected: false
+  - !ruby/object:Tile
+    revealed: 1
+    board: *70249114308140
+    position:
+    - 4
+    - 7
+    selected: false
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 5
+    - 7
+    selected: false
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 6
+    - 7
+    selected: false
+  - !ruby/object:Tile
+    revealed: 2
+    board: *70249114308140
+    position:
+    - 7
+    - 7
+    selected: false
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 8
+    - 7
+    selected: :selected
+- - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 0
+    - 8
+    selected: :selected
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 1
+    - 8
+    selected: :selected
+    bombed: true
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 2
+    - 8
+    selected: :selected
+    bombed: true
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 3
+    - 8
+    selected: :selected
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 4
+    - 8
+    selected: :selected
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 5
+    - 8
+    selected: :selected
+    bombed: true
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 6
+    - 8
+    selected: :selected
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 7
+    - 8
+    selected: :selected
+  - !ruby/object:Tile
+    revealed: 
+    board: *70249114308140
+    position:
+    - 8
+    - 8
+    selected: :selected
